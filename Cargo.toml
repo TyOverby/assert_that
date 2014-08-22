@@ -1,0 +1,8 @@
+[project]
+name = "assert_that"
+authors = ["TyOverby <ty@pre-alpha.com>"]
+version = "0.0.0-alpha"
+
+[[lib]]
+name = "termbox"
+path = "src/lib.rs"
